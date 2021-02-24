@@ -1,0 +1,16 @@
+.SimpleError {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  min-height: 30px;
+  min-width: 100px;
+  border-radius: 10px;
+  background-color: #E74C3C;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.3rem 0.6rem;
+  font-size: 14px;
+  font-weight: 700;
+}
